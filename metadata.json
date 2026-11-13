@@ -1,0 +1,6 @@
+{
+  "name": "3D 懷舊動物王國",
+  "description": "以 Three.js 打造的 3D 懷舊動物王國模擬經營網頁遊戲，支援多種生態環境、多款體素動物、遊客 AI 與點擊 3D 物件清除退款模式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
